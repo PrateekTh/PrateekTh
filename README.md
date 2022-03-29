@@ -1,6 +1,7 @@
 <h2>Hey! I'm Prateek this 👋</h2>
 <br>
-### 👨🏻‍💻 &nbsp;About Me 
+### 👨🏻‍💻 &nbsp;About Me
+
 - 👀 I’m interested in Game Development and Blender
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on anything fun!
