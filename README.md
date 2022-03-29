@@ -1,4 +1,4 @@
-<h2>Hey! I'm Prateek this 👋</h2>
+<h2>Hey! I'm Prateek 👋</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 👀 I’m interested in Game Development and Blender
