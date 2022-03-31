@@ -5,7 +5,7 @@
   - 3D Design
   - Web Development
   - Game Development 
-- 🌱 I’m currently working on artificial intelligence in Gaming
+- 🌱 I’m currently working on artificial intelligence in
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 Currently pursuing my Bachelors in Computer Science and Engineering
 
@@ -24,6 +24,8 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?&style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
