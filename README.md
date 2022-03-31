@@ -1,10 +1,10 @@
-<h2>Hey! I'm Prateek 👋</h2>
+<h2>This is Prateek. 🦝</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 👀 My Interests are:
   - 3D Design
   - Web Development
-  - Game Development 
+  - Game Development
 - 🌱 I’m currently working on artificial intelligence in
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 Currently pursuing my Bachelors in Computer Science and Engineering
