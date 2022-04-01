@@ -1,12 +1,12 @@
 <h2>This is Prateek. 🦝</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 👀 My Interests are:
+- 👀 My Interests/Skills are:
   - Web Development
   - Game Development
   - 3D Design
   - Graphic Design
-- 🌱 I’m currently working on artificial intelligence in
+- 🌱 I’m currently working on artificial intelligence in Games
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 Currently pursuing my Bachelors in Computer Science and Engineering
 
