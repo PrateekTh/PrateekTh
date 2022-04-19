@@ -6,7 +6,7 @@
   - Game Development
   - 3D Design
   - Graphic Design
-- 🌱 I’m currently working on artificial intelligence in Games
+- 🌱 I’m currently working on 3D design on web (Three.js)
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 Currently pursuing my Bachelors in Computer Science and Engineering
 
@@ -36,6 +36,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
 
 ### 🤝🏻 &nbsp;Connect with Me
 
