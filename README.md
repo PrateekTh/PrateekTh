@@ -6,7 +6,7 @@
   - Game Development
   - 3D Design
   - Graphic Design
-- 🌱 I’m currently working on 3D design on web (Three.js)
+- 🌱 I’m currently working on 3D design on web (React Three Fiber)
 - 💞️ I’m looking to collaborate on anything fun!
 - 📫 Currently pursuing my Bachelors in Computer Science and Engineering
 
