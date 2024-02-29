@@ -4,7 +4,7 @@
 - 👀 My Interests/Skills are:
   - Web Development
   - Game Development
-  - 3D Design
+  - Project Management
   - Graphic Design
 - 🌱 I’m currently working on 3D design on web (React Three Fiber)
 - 💞️ I’m looking to collaborate on anything fun!
