@@ -2,13 +2,13 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 👀 My Interests/Skills are:
-  - Web Development
   - Game Development
   - Project Management
+  - Web Development
   - Graphic Design
-- 🌱 I’m currently working on 3D design on web (React Three Fiber)
+- 🌱 I’m currently working on Data Analysis & Prediction Projects, for insightful Business Decisions
 - 💞️ I’m looking to collaborate on anything fun!
-- 📫 Currently pursuing my Bachelors in Computer Science and Engineering
+- 📫 Bachelor of Technology in Computer Science and Engineering
 
 <!--
 ### ⚙️ &nbsp;GitHub Analytics
