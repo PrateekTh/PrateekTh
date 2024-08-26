@@ -1,44 +1,37 @@
-<h2>This is Prateek. 🦝</h2>
+<h2>Prateek Thakur.</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
-- 👀 My Interests/Skills are:
-  - Game Development
-  - Project Management
+*always trying to build something beautiful (and functional)*
+
+**Bachelor of Technology**, Computer Science and Engineering
+
+### Interests/Skills:
   - Web Development
+  - WebGL & Graphics Programming
+  - Game Development
   - Graphic Design
-- 🌱 I’m currently working on Data Analysis & Prediction Projects, for insightful Business Decisions
-- 💞️ I’m looking to collaborate on anything fun!
-- 📫 Bachelor of Technology in Computer Science and Engineering
+  
 
-<!--
-### ⚙️ &nbsp;GitHub Analytics
-<br>
-<a href="https://github.com/PrateekTh">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PrateekTh&show_icons=true" alt="PrateekTh" style="width:40%;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateekTh&layout=compact" alt="PrateekTh" style="width:40%;"/>
-  </p>  
-</a>
-<br>
--->
+### Tech Stack
 
-### 🛠 &nbsp;Tech Stack
-
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)&nbsp;
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-
-### 🤝🏻 &nbsp;Connect with Me
+### Connect
 
 <p>Want to reach out to me? Feel free to contact.</p>
 <a rel="noreferrer"href="https://www.linkedin.com/in/prateek-thakur-ba0498203" target="_blank" ><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
