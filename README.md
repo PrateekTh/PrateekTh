@@ -35,7 +35,6 @@ Things *I believe* I'm good at
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -76,7 +75,7 @@ I also possess experience with:
 
 ### Data Analysis, ML/AI
 
-- #### ⭐ EEG Analysis for Canine Mental State Classification - [Notion](https://ganondalf.notion.site/Analysis-of-Canine-EEGs-for-Mental-State-Classification-b3eef792a890424f86559a2a9de560ec) - [Notebook]()
+- #### ⭐ EEG Analysis for Canine Mental State Classification - [Notion](https://ganondalf.notion.site/Analysis-of-Canine-EEGs-for-Mental-State-Classification-b3eef792a890424f86559a2a9de560ec) - [Notebook](https://github.com/PrateekTh/EEG-Analysis/blob/main/Canine_EEG_Analysis.ipynb)
 - #### ⭐ Major Project - Predictive Analysis of Urban Environments using Satellite Imagery (Term Paper) - [PDF🔗](https://drive.google.com/file/d/1ZLsLj8pU_nIDAJZojhmZy3EiFOa7ePh4/view?usp=drive_link)
 - #### VG Sales - [Repository](https://github.com/PrateekTh/vg-sales-analysis) - [Notebook](https://github.com/PrateekTh/vg-sales-analysis/blob/main/vg_a.ipynb)
 - #### Development Based Country EDA - [Repository](https://github.com/PrateekTh/development-based-clustering-countries/blob/main/country_analysis.ipynb) - [Notebook](https://github.com/PrateekTh/development-based-clustering-countries/blob/main/country_analysis.ipynb)
