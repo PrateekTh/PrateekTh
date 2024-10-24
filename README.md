@@ -8,13 +8,13 @@ I like to dive deep into code and design, and use innovation to push the limits 
 
 I aim to build the most functional, universally appealing and accessible applications known to man.
 
-
 Things *I believe* I'm good at 
 - **Full Stack Development**
 - **Web Design & highly performant Frontend Development**
 - WebGL & Graphics Programming
 - Data Analysis
 
+Visit [my website](https://prth.vercel.app/)!
 
 ### Proficiencies
 ---
@@ -35,6 +35,7 @@ Things *I believe* I'm good at
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -49,6 +50,7 @@ I also possess experience with:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
@@ -58,31 +60,34 @@ I also possess experience with:
 ### Check out some of my awesome projects & web apps! 
 ----
 ### Web Applications
-- #### ⭐ 3Data - [Website](https://3data.netlify.app/) - [Repository](https://github.com/PrateekTh/data-3D)
+-  ⭐ **3Data - [Website](https://3data.netlify.app/) - [Repository](https://github.com/PrateekTh/data-3D)**
+
     *Rediscover data analysis, to the extent that it may feel that we might've been seeing it the wrong way.* 
 
-    A powerful web application to create 3D visualisations of **any** dataset, no matter how massive, from any device, realtime, on the web. The intuitive interface makes looking through your data a breeze, and the amount of options and dimensions *may* make it a bit too addictive.
+    A powerful web application to create 3D visualisations of **any** dataset, no matter how massive, from any device, realtime, on the web. The intuitive interface makes looking through your data a breeze, and the amount of options and dimensions *might* make it a bit too addictive.
 
-- #### ⭐ net archer 🎯 - [Website](https://netarcher.vercel.app/) - [Repository](https://github.com/PrateekTh/net-archer)
+- **⭐ net archer 🎯 - [Website](https://netarcher.vercel.app/) - [Repository](https://github.com/PrateekTh/net-archer)**
+
     *The one stop solution for all your system building needs.*
 
     A fully equipped node based system to build network architecture. Build functional and appealing system architectures on the fly, save, export & share them. Easily recieve feedback by adding & recieve comments from your team/mentors!
 
-    Contains a certain amount of frutiger aero flavour currently, and a lot more features planned down the road.
+    Contains quite a bit of frutiger aero flavour currently, and a lot more features planned down the road.
 
-- #### Rook's Move - [Repository](https://github.com/PrateekTh/rook-battle)
+- **Rook's Move - [Repository](https://github.com/PrateekTh/rook-battle)**
+    
     A fun fast paced online multiplayer reimagination of chess - with new, though simpler rules.
 
 ### Data Analysis, ML/AI
 
-- #### ⭐ EEG Analysis for Canine Mental State Classification - [Notion](https://ganondalf.notion.site/Analysis-of-Canine-EEGs-for-Mental-State-Classification-b3eef792a890424f86559a2a9de560ec) - [Notebook](https://github.com/PrateekTh/EEG-Analysis/blob/main/Canine_EEG_Analysis.ipynb)
-- #### ⭐ Major Project - Predictive Analysis of Urban Environments using Satellite Imagery (Term Paper) - [PDF🔗](https://drive.google.com/file/d/1ZLsLj8pU_nIDAJZojhmZy3EiFOa7ePh4/view?usp=drive_link)
-- #### VG Sales - [Repository](https://github.com/PrateekTh/vg-sales-analysis) - [Notebook](https://github.com/PrateekTh/vg-sales-analysis/blob/main/vg_a.ipynb)
-- #### Development Based Country EDA - [Repository](https://github.com/PrateekTh/development-based-clustering-countries/blob/main/country_analysis.ipynb) - [Notebook](https://github.com/PrateekTh/development-based-clustering-countries/blob/main/country_analysis.ipynb)
+- **⭐ EEG Analysis for Canine Mental State Classification - [Notion](https://ganondalf.notion.site/Analysis-of-Canine-EEGs-for-Mental-State-Classification-b3eef792a890424f86559a2a9de560ec) - [Notebook]()**
+- **⭐ Major Project - Predictive Analysis of Urban Environments using Satellite Imagery (Term Paper) - [PDF🔗](https://drive.google.com/file/d/1ZLsLj8pU_nIDAJZojhmZy3EiFOa7ePh4/view?usp=drive_link)**
+- **VG Sales - [Repository](https://github.com/PrateekTh/vg-sales-analysis) - [Notebook](https://github.com/PrateekTh/vg-sales-analysis/blob/main/vg_a.ipynb)**
+- **Development Based Country EDA - [Repository](https://github.com/PrateekTh/development-based-clustering-countries) - [Notebook](https://github.com/PrateekTh/development-based-clustering-countries/blob/main/country_analysis.ipynb)**
 
 ### Other 
-- #### ⭐ GSoC'22 - International Catrobat Association - [Submission Page](https://gist.github.com/PrateekTh/cc590299eab4d269e4112af4cbaeebbc)
-- #### Custom Tibia MMORPG Server/Client Implementation - [Repository]()
+- **⭐ GSoC'22 - International Catrobat Association - [Submission Page](https://gist.github.com/PrateekTh/cc590299eab4d269e4112af4cbaeebbc)**
+- **Custom Tibia MMORPG Server/Client Implementation - [Repository](https://github.com/PrateekTh/TFS-OTC-MMORPG-Implement)**
 
 ### Connect
 ---
