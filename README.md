@@ -8,7 +8,7 @@ I like to dive deep into code and design, and use innovation to push the limits 
 
 I aim to build the most functional, universally appealing and accessible applications known to man.
 
-Things *I believe* I'm good at 
+Things I'm good at 
 - **Full Stack Development**
 - **Web Design & highly performant Frontend Development**
 - WebGL & Graphics Programming
@@ -31,11 +31,12 @@ Visit [my website](https://prth.vercel.app/)!
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -71,8 +72,6 @@ I also possess experience with:
     *The one stop solution for all your system building needs.*
 
     A fully equipped node based system to build network architecture. Build functional and appealing system architectures on the fly, save, export & share them. Easily recieve feedback by adding & recieve comments from your team/mentors!
-
-    Contains quite a bit of frutiger aero flavour currently, and a lot more features planned down the road.
 
 - **Rook's Move - [Repository](https://github.com/PrateekTh/rook-battle)**
     
